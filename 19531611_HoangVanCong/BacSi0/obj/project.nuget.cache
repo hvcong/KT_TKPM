@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "mB77Rd1oqMnhq88b8FRXkX2b2sLa6Qf0J1nRdDFiXJeUQsSXbZxLqlqttmJ+egxy9hjWZSPqt3a7Jmp1KwZE2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BacSi0\\BacSi0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hvcon\\.nuget\\packages\\apache.nms\\1.7.1\\apache.nms.1.7.1.nupkg.sha512",
+    "C:\\Users\\hvcon\\.nuget\\packages\\apache.nms.activemq\\1.7.2\\apache.nms.activemq.1.7.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Apache.NMS 1.7.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Apache.NMS",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Apache.NMS.ActiveMQ 1.7.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Apache.NMS.ActiveMQ",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BacSi0\\BacSi0.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BacSi0\\BacSi0.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BacSi0\\BacSi0.csproj",
+        "projectName": "BacSi0",
+        "projectPath": "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BacSi0\\BacSi0.csproj",
+        "packagesPath": "C:\\Users\\hvcon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BacSi0\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hvcon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BacSiClass\\BacSiClass.csproj": {
+                "projectPath": "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BacSiClass\\BacSiClass.csproj"
+              },
+              "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BenhNhan0\\BenhNhanClass.csproj": {
+                "projectPath": "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BenhNhan0\\BenhNhanClass.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Apache.NMS.ActiveMQ": {
+              "target": "Package",
+              "version": "[1.7.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BacSiClass\\BacSiClass.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BacSiClass\\BacSiClass.csproj",
+        "projectName": "BacSiClass",
+        "projectPath": "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BacSiClass\\BacSiClass.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BenhNhan0\\BenhNhanClass.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BenhNhan0\\BenhNhanClass.csproj",
+        "projectName": "BenhNhanClass",
+        "projectPath": "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BenhNhan0\\BenhNhanClass.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BacSiClass\\BacSiClass.csproj": {
+                "projectPath": "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BacSiClass\\BacSiClass.csproj"
+              },
+              "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BenhNhan\\BenhNhan.csproj": {
+                "projectPath": "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BenhNhan\\BenhNhan.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BenhNhan\\BenhNhan.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BenhNhan\\BenhNhan.csproj",
+        "projectName": "BenhNhan",
+        "projectPath": "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BenhNhan\\BenhNhan.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

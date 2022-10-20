@@ -1,0 +1,14 @@
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\sender\bin\Debug\sender.exe.config
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\sender\bin\Debug\sender.exe
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\sender\bin\Debug\sender.pdb
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\sender\bin\Debug\Student1.dll
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\sender\bin\Debug\Student1.pdb
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\sender\obj\Debug\sender.csproj.AssemblyReference.cache
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\sender\obj\Debug\sender.csproj.SuggestedBindingRedirects.cache
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\sender\obj\Debug\sender.Properties.Resources.resources
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\sender\obj\Debug\sender.csproj.GenerateResource.cache
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\sender\obj\Debug\sender.csproj.CoreCompileInputs.cache
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\sender\obj\Debug\sender.csproj.CopyComplete
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\sender\obj\Debug\sender.exe
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\sender\obj\Debug\sender.pdb
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\sender\obj\Debug\sender.Sender_Form.resources

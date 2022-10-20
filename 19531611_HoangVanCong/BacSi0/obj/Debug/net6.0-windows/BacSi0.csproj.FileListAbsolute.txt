@@ -1,0 +1,17 @@
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BacSi0\bin\Debug\net6.0-windows\BacSi0.exe
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BacSi0\bin\Debug\net6.0-windows\BacSi0.deps.json
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BacSi0\bin\Debug\net6.0-windows\BacSi0.runtimeconfig.json
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BacSi0\bin\Debug\net6.0-windows\BacSi0.dll
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BacSi0\bin\Debug\net6.0-windows\BacSi0.pdb
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BacSi0\obj\Debug\net6.0-windows\BacSi0.csproj.AssemblyReference.cache
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BacSi0\obj\Debug\net6.0-windows\BacSi0.Form1.resources
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BacSi0\obj\Debug\net6.0-windows\BacSi0.csproj.GenerateResource.cache
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BacSi0\obj\Debug\net6.0-windows\BacSi0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BacSi0\obj\Debug\net6.0-windows\BacSi0.AssemblyInfoInputs.cache
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BacSi0\obj\Debug\net6.0-windows\BacSi0.AssemblyInfo.cs
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BacSi0\obj\Debug\net6.0-windows\BacSi0.csproj.CoreCompileInputs.cache
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BacSi0\obj\Debug\net6.0-windows\BacSi0.dll
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BacSi0\obj\Debug\net6.0-windows\refint\BacSi0.dll
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BacSi0\obj\Debug\net6.0-windows\BacSi0.pdb
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BacSi0\obj\Debug\net6.0-windows\BacSi0.genruntimeconfig.cache
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BacSi0\obj\Debug\net6.0-windows\ref\BacSi0.dll

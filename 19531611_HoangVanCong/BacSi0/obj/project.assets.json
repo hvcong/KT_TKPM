@@ -1,0 +1,234 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "Apache.NMS/1.7.1": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Apache.NMS.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/Apache.NMS.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Apache.NMS.ActiveMQ/1.7.2": {
+        "type": "package",
+        "dependencies": {
+          "Apache.NMS": "1.7.1"
+        },
+        "compile": {
+          "lib/net40/Apache.NMS.ActiveMQ.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/Apache.NMS.ActiveMQ.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "BacSiClass/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/BacSiClass.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BacSiClass.dll": {}
+        }
+      },
+      "BenhNhan/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/BenhNhan.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BenhNhan.dll": {}
+        }
+      },
+      "BenhNhanClass/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "BacSiClass": "1.0.0",
+          "BenhNhan": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BenhNhanClass.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BenhNhanClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Apache.NMS/1.7.1": {
+      "sha512": "sQA+1dl1hBB0AkhBys7oJ6y9lBJnjH5xVc2aQ5bbEv/pbyMhlN8Yuo/NceYVGNdSK89ANp9XyQsaVUI975QLjg==",
+      "type": "package",
+      "path": "apache.nms/1.7.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "NOTICE.txt",
+        "apache.nms.1.7.1.nupkg.sha512",
+        "apache.nms.nuspec",
+        "lib/net20-cf/Apache.NMS.dll",
+        "lib/net20-cf/Apache.NMS.pdb",
+        "lib/net20-cf/Apache.NMS.xml",
+        "lib/net20/Apache.NMS.dll",
+        "lib/net20/Apache.NMS.pdb",
+        "lib/net20/Apache.NMS.xml",
+        "lib/net35/Apache.NMS.dll",
+        "lib/net35/Apache.NMS.pdb",
+        "lib/net35/Apache.NMS.xml",
+        "lib/net40/Apache.NMS.dll",
+        "lib/net40/Apache.NMS.pdb",
+        "lib/net40/Apache.NMS.xml"
+      ]
+    },
+    "Apache.NMS.ActiveMQ/1.7.2": {
+      "sha512": "byKSg5/G7JGoDzSGGw4KK43/hpOGrXCtjZyjBcEjTF6ZscnrUiy8r20nyv85P55+nNmfa8q+tSF0GURd1GxYag==",
+      "type": "package",
+      "path": "apache.nms.activemq/1.7.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "NOTICE.txt",
+        "apache.nms.activemq.1.7.2.nupkg.sha512",
+        "apache.nms.activemq.nuspec",
+        "lib/net20/Apache.NMS.ActiveMQ.dll",
+        "lib/net20/Apache.NMS.ActiveMQ.pdb",
+        "lib/net20/Apache.NMS.ActiveMQ.xml",
+        "lib/net35/Apache.NMS.ActiveMQ.dll",
+        "lib/net35/Apache.NMS.ActiveMQ.pdb",
+        "lib/net35/Apache.NMS.ActiveMQ.xml",
+        "lib/net40/Apache.NMS.ActiveMQ.dll",
+        "lib/net40/Apache.NMS.ActiveMQ.pdb",
+        "lib/net40/Apache.NMS.ActiveMQ.xml"
+      ]
+    },
+    "BacSiClass/1.0.0": {
+      "type": "project",
+      "path": "../BacSiClass/BacSiClass.csproj",
+      "msbuildProject": "../BacSiClass/BacSiClass.csproj"
+    },
+    "BenhNhan/1.0.0": {
+      "type": "project",
+      "path": "../BenhNhan/BenhNhan.csproj",
+      "msbuildProject": "../BenhNhan/BenhNhan.csproj"
+    },
+    "BenhNhanClass/1.0.0": {
+      "type": "project",
+      "path": "../BenhNhan0/BenhNhanClass.csproj",
+      "msbuildProject": "../BenhNhan0/BenhNhanClass.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Apache.NMS.ActiveMQ >= 1.7.2",
+      "BacSiClass >= 1.0.0",
+      "BenhNhanClass >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\hvcon\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BacSi0\\BacSi0.csproj",
+      "projectName": "BacSi0",
+      "projectPath": "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BacSi0\\BacSi0.csproj",
+      "packagesPath": "C:\\Users\\hvcon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BacSi0\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\hvcon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BacSiClass\\BacSiClass.csproj": {
+              "projectPath": "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BacSiClass\\BacSiClass.csproj"
+            },
+            "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BenhNhan0\\BenhNhanClass.csproj": {
+              "projectPath": "C:\\Users\\hvcon\\source\\repos\\19531611_HoangVanCong\\BenhNhan0\\BenhNhanClass.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "Apache.NMS.ActiveMQ": {
+            "target": "Package",
+            "version": "[1.7.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Apache.NMS 1.7.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Apache.NMS",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Apache.NMS.ActiveMQ 1.7.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Apache.NMS.ActiveMQ",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

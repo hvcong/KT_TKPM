@@ -1,0 +1,6 @@
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BacSiClass\bin\Debug\BacSiClass.dll
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BacSiClass\bin\Debug\BacSiClass.pdb
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BacSiClass\obj\Debug\BacSiClass.csproj.AssemblyReference.cache
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BacSiClass\obj\Debug\BacSiClass.csproj.CoreCompileInputs.cache
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BacSiClass\obj\Debug\BacSiClass.dll
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BacSiClass\obj\Debug\BacSiClass.pdb

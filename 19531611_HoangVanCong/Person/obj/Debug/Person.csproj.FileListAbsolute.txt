@@ -1,0 +1,6 @@
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\Person\bin\Debug\Person.dll
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\Person\bin\Debug\Person.pdb
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\Person\obj\Debug\Person.csproj.AssemblyReference.cache
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\Person\obj\Debug\Person.csproj.CoreCompileInputs.cache
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\Person\obj\Debug\Person.dll
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\Person\obj\Debug\Person.pdb

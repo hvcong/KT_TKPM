@@ -1,0 +1,6 @@
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BenhNhan\bin\Debug\BenhNhan.dll
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BenhNhan\bin\Debug\BenhNhan.pdb
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BenhNhan\obj\Debug\BenhNhan.csproj.AssemblyReference.cache
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BenhNhan\obj\Debug\BenhNhan.csproj.CoreCompileInputs.cache
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BenhNhan\obj\Debug\BenhNhan.dll
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BenhNhan\obj\Debug\BenhNhan.pdb

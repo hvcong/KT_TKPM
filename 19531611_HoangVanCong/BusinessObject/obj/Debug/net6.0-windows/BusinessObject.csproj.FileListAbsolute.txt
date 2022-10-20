@@ -1,0 +1,17 @@
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BusinessObject\bin\Debug\net6.0-windows\BusinessObject.exe
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BusinessObject\bin\Debug\net6.0-windows\BusinessObject.deps.json
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BusinessObject\bin\Debug\net6.0-windows\BusinessObject.runtimeconfig.json
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BusinessObject\bin\Debug\net6.0-windows\BusinessObject.dll
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BusinessObject\bin\Debug\net6.0-windows\BusinessObject.pdb
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BusinessObject\obj\Debug\net6.0-windows\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BusinessObject\obj\Debug\net6.0-windows\BusinessObject.Form1.resources
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BusinessObject\obj\Debug\net6.0-windows\BusinessObject.csproj.GenerateResource.cache
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BusinessObject\obj\Debug\net6.0-windows\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BusinessObject\obj\Debug\net6.0-windows\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BusinessObject\obj\Debug\net6.0-windows\BusinessObject.AssemblyInfo.cs
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BusinessObject\obj\Debug\net6.0-windows\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BusinessObject\obj\Debug\net6.0-windows\BusinessObject.dll
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BusinessObject\obj\Debug\net6.0-windows\refint\BusinessObject.dll
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BusinessObject\obj\Debug\net6.0-windows\BusinessObject.pdb
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BusinessObject\obj\Debug\net6.0-windows\BusinessObject.genruntimeconfig.cache
+C:\Users\hvcon\source\repos\19531611_HoangVanCong\BusinessObject\obj\Debug\net6.0-windows\ref\BusinessObject.dll
