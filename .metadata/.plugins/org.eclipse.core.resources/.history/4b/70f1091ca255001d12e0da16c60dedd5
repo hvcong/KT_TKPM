@@ -1,0 +1,14 @@
+package demo;
+
+import factory.Car;
+import factory.CarFactory;
+
+public class carFactoryDemo {
+	
+	public static void main(String[] args) {
+		
+		Car honda = CarFactory.getCar("Honda");
+		
+	}
+
+}

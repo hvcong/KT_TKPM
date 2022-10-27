@@ -1,0 +1,17 @@
+package factorys;
+
+public class TableFactory extends AbstractFactory {
+
+	@Override
+	public AbstractFactory getChair() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public AbstractFactory getTable() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

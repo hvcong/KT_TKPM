@@ -1,0 +1,17 @@
+package demo;
+
+import Car.ICar;
+import factory.CarFactory;
+
+public class carFactoryDemo {
+	
+	public static void main(String[] args) {
+		
+		ICar honda = CarFactory.getCar("Honda");
+		ICar nexus = CarFactory.getCar("Nexus");
+		honda.showInfor();
+		nexus.showInfor();
+		
+	}
+
+}

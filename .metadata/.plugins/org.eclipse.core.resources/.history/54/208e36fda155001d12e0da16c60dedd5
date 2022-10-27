@@ -1,0 +1,23 @@
+package factory;
+
+public class CarFactory {
+
+	public Car getCar(String typeCar) {
+		if(typeCar == null) {
+			return null;
+		}
+		
+		if(typeCar.equalsIgnoreCase("Honda")) {
+			return new Honda();
+		}
+		
+		if(typeCar.equalsIgnoreCase("Toyota")) {
+			return new Toyota();
+		}
+		
+		if(typeCar.equalsIgnoreCase("Nexus")) {
+			return new Nexus();
+		}
+		return null;
+	}
+}

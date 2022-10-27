@@ -1,0 +1,16 @@
+package factory;
+
+public class Honda implements Car {
+	
+	private String cauHinh;
+	private String nhaSanXuat;
+
+	@Override
+	public void showInfor() {
+		// TODO Auto-generated method stub
+		System.out.println(this.toString());
+		
+	}
+	
+	
+}

@@ -1,0 +1,6 @@
+
+public abstract class AbstractFactory {
+	
+	abstract public AbstractFactory getChair();
+	abstract public AbstractFactory getTable();
+}

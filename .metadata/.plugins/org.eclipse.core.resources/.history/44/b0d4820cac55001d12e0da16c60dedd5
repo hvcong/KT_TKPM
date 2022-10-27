@@ -1,0 +1,5 @@
+package factorys;
+
+public class TableFactory extends AbstractFactory {
+
+}
